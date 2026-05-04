@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou Pedro Gabriel
+# 👋 Hi, I'm Pedro Gabriel / Olá, eu sou Pedro Gabriel
 
-🎓 Estudante de **Engenharia de Software** na **Uninter** (EAD)  
-🌱 Atualmente aprendendo: Git, GitHub, Python e JavaScript  
-🚀 Objetivo: conseguir o **GitHub Student Pack** e contribuir com projetos open source  
-📫 Como me encontrar: agnight14@gmail.com  
+- 🎓 Software Engineering student at **Uninter** (distance learning) / Estudante de Engenharia de Software na **Uninter** (EAD)
+- 🌱 Learning: Git, GitHub, Python and JavaScript
+- 🚀 Goal: GitHub Student Pack & open source contributions
+- 📫 Reach me: [agnight14@gmail.com](mailto:agnight14@gmail.com)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats / Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Peseogo-stack&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peseogo-stack&show_icons=true&theme=radical)
