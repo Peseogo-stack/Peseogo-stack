@@ -23,12 +23,6 @@ Além disso: SQL, redes de computadores, noções de Excel e Power BI, e inglês
 - [ ] Publicar meus primeiros projetos aqui
 - [ ] Primeira vaga em tecnologia
 
-### Projetos
-
-**Pré-Cálculo Interativo**: site de estudos com 7 módulos (domínio, funções compostas, funções exponenciais e mais), com explicações e videoaulas em português. Em construção. Em breve no GitHub Pages.
-
-<!-- Quando publicar, troque "Em construção. Em breve no GitHub Pages." pelo link do site ou do repositório. -->
-
 ### Contato
 
 Estou aberto a oportunidades de estágio, suporte de TI e desenvolvimento júnior.
