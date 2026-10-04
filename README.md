@@ -33,7 +33,7 @@ Além disso: SQL, redes de computadores, noções de Excel e Power BI, e inglês
 
 Estou aberto a oportunidades de estágio, suporte de TI e desenvolvimento júnior.
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/pedro-gabriel-costa-vieira03052007"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
 <a href="mailto:agnight14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail: agnight14@gmail.com"></a>
 
 <details>
