@@ -1,6 +1,6 @@
 <p><img src="banner.svg" width="100%" alt="Pedro Gabriel, estudante de Engenharia de Software em Boa Vista, RR"></p>
 
-Oi! Sou o Pedro, estudante de **Engenharia de Software** na UNINTER, em Boa Vista (RR). Estou construindo minha base em programação com Python, SQL e desenvolvimento web, e meu objetivo é começar como **desenvolvedor júnior**.
+Oi! Sou o Pedro, estudante de **Engenharia de Software** na UNINTER, em Boa Vista (RR). Estou construindo minha base em programação com Python, SQL e desenvolvimento web.
 
 Também tenho experiência de campo como **eletricista na rede de distribuição de energia** (NR-10 e NR-35). Foi lá que aprendi a seguir procedimento à risca, levar segurança a sério e resolver problema com o cliente esperando. É com essa mesma disciplina que estudo: um pouco todo dia, com o progresso registrado aqui.
 
