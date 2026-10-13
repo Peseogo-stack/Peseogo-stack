@@ -4,24 +4,11 @@ Oi! Sou o Pedro, estudante de **Engenharia de Software** na UNINTER, em Boa Vist
 
 Também tenho experiência de campo como **eletricista na rede de distribuição de energia** (NR-10 e NR-35). Foi lá que aprendi a seguir procedimento à risca, levar segurança a sério e resolver problema com o cliente esperando. É com essa mesma disciplina que estudo: um pouco todo dia, com o progresso registrado aqui.
 
-No futuro, quero juntar as duas coisas e trabalhar com software para energia e automação industrial.
-
 ### O que estou estudando
 
 <p><img src="https://skillicons.dev/icons?i=py,html,css,js,git,github" alt="Python, HTML, CSS, JavaScript, Git e GitHub"></p>
 
 Além disso: SQL, redes de computadores, noções de Excel e Power BI, e inglês todos os dias.
-
-### Trilha
-
-- [x] Python: introdução e intermediário (DataCamp)
-- [x] SQL: introdução (DataCamp)
-- [x] Git: introdução (DataCamp)
-- [x] Automação de Sistemas (IFRS)
-- [ ] Redes, na Cisco Networking Academy (em andamento)
-- [ ] Fundamentos de TI: hardware e software, na Fundação Bradesco (em andamento)
-- [ ] Publicar meus primeiros projetos aqui
-- [ ] Primeira vaga em tecnologia
 
 ### Contato
 
