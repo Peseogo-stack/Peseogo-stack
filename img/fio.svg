@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 24" width="1280" height="24" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7f9dff" stop-opacity="0"/><stop offset=".5" stop-color="#9fb6ff" stop-opacity=".95"/><stop offset="1" stop-color="#7f9dff" stop-opacity="0"/></linearGradient>
+    <filter id="b" x="-5%" y="-200%" width="110%" height="500%"><feGaussianBlur stdDeviation="3" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .pulso { stroke-dasharray: 140 2420; stroke-dashoffset: 2560; animation: correr 4.5s linear infinite; }
+    @keyframes correr { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pulso { animation: none; opacity: 0; } }
+  </style>
+  <path d="M0 12 H1280" stroke="url(#g)" stroke-width="3"/>
+  <path class="pulso" d="M0 12 H1280" stroke="#5ce1ff" stroke-width="5" stroke-linecap="round" filter="url(#b)"/>
+  <circle cx="640" cy="12" r="6" fill="#040a22" stroke="#5ce1ff" stroke-width="3"/>
+</svg>
